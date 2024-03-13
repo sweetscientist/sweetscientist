@@ -1,9 +1,8 @@
-- Hi, I’m the @sweetscientist
+- Hi, I’m my name is Ben. I'm a developer and boxer.
 - I’m interested in building applications that help make better investment decisions
-- I’m currently learning about finance and python
-- I’m looking to collaborate on ideas that will help make our lives enriched with joy 
-- In my freetime I like to box and 3d print things
-- How to reach me lilphd99@gmail.com
+- I’m currently doing ML/AI at Microsoft
+- In my freetime I like to box
+- Email me @ lilphd99@gmail.com
 
 <!---
 sweetscientist/sweetscientist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
