@@ -1,4 +1,4 @@
-- Hi, I’m my name is Ben. I'm a developer and boxer.
+- Hi, I’m Ben. I'm a developer and boxer.
 - I’m interested in building applications that help make better investment decisions
 - I’m currently doing ML/AI at Microsoft
 - In my freetime I like to box
